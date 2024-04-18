@@ -2,7 +2,7 @@ import os
 import csv
 
 ' set the file path for the csv file '
-csvpath = os.path.join("election_data.csv")
+csvpath = os.path.join("Resources","election_data.csv")
 
 ' set the output path'
 electionText = os.path.join("pyPoll.txt")

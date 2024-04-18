@@ -2,7 +2,7 @@ import os
 import csv
 
 ' set the file path for the csv file '
-csvpath = os.path.join("budget_data.csv")
+csvpath = os.path.join("Resources","budget_data.csv")
 
 ' set the output path'
 analysisText = os.path.join("financialAnalysis.txt")
